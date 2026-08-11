@@ -51,8 +51,8 @@ hand-tracking-ar-portal/
 
 𝐒𝐭𝐞𝐩 𝟏: 𝐂𝐥𝐨𝐧𝐞 𝐨𝐫 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝
 
-git clone https://github.com/exu-coder/TikTok-virus-came-web
-cd hand-tracking-ar-portal
+git clone https://github.com/exu-coder/TikTok-virus-came-web.git
+cd TikTok-virus-came-web
 
 𝐒𝐭𝐞𝐩 𝟐: 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬
 
